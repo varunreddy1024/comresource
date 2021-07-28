@@ -61,21 +61,14 @@
     }
     
     .flx-lik .left {
-        width: 45vw;
+        width: 70vw;
     }
     
     .flx-lik .right {
-        width: 45vw;
+        width: 70vw;
     }
     
-    .flx-lik {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-evenly;
-        align-items: center;
-        flex-shrink: 0;
-        flex-grow: 0;
-    }
+  
     
     .grp-links {
         border-radius: 5px;
@@ -115,19 +108,5 @@
         .mains-one {
             width: 90vw;
         }
-        .flx-lik {
-            margin: 4vh 0px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            flex-shrink: 0;
-            flex-grow: 0;
-        }
-        .flx-lik .left {
-            width: 90vw;
-        }
-        .flx-lik .right {
-            width: 90vw;
-        }
+       
     }
